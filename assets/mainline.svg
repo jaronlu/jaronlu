@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif">
+  <rect x="0" y="0" width="1200" height="320" rx="14" fill="#000000"/>
+  <text x="40" y="48" fill="#e6eefa" font-size="15" font-weight="500">一条主线：让 AI Agent 的输出可被核对</text>
+  <text x="40" y="74" fill="#8ea3ba" font-size="12">答案回到原文 · 写入需要批准 · 改动可以回放 · 流程沉淀成技能</text>
+
+  <rect x="40" y="104" width="250" height="170" rx="12" fill="#123a5c" stroke="#4f9bd8" stroke-width="1"/>
+  <text x="60" y="136" fill="#e6eefa" font-size="15" font-weight="500">检索</text>
+  <text x="60" y="164" fill="#ffffff" font-size="13">llamaindex-rag</text>
+  <text x="60" y="194" fill="#c7d8ea" font-size="12">答案给出 PDF 物理页码</text>
+  <text x="60" y="214" fill="#c7d8ea" font-size="12">与来源核验结果</text>
+
+  <rect x="330" y="104" width="250" height="170" rx="12" fill="#2b1f57" stroke="#a78bfa" stroke-width="1"/>
+  <text x="350" y="136" fill="#e6eefa" font-size="15" font-weight="500">问答</text>
+  <text x="350" y="164" fill="#ffffff" font-size="13">SecRAG</text>
+  <text x="350" y="194" fill="#d8cdf0" font-size="12">引用 + 五态业务终态</text>
+  <text x="350" y="214" fill="#d8cdf0" font-size="12">角色权限与审计轨迹</text>
+
+  <rect x="620" y="104" width="250" height="170" rx="12" fill="#12463a" stroke="#46c99b" stroke-width="1"/>
+  <text x="640" y="136" fill="#e6eefa" font-size="15" font-weight="500">写入</text>
+  <text x="640" y="164" fill="#ffffff" font-size="13">llm-wiki-mcp</text>
+  <text x="640" y="194" fill="#c4e8da" font-size="12">Agent 只能提候选</text>
+  <text x="640" y="214" fill="#c4e8da" font-size="12">人工批准后才更新</text>
+
+  <rect x="910" y="104" width="250" height="170" rx="12" fill="#4a3212" stroke="#d9a84e" stroke-width="1"/>
+  <text x="930" y="136" fill="#e6eefa" font-size="15" font-weight="500">复用</text>
+  <text x="930" y="164" fill="#ffffff" font-size="13">agent-skills</text>
+  <text x="930" y="194" fill="#eddcb8" font-size="12">13 个自维护技能包</text>
+  <text x="930" y="214" fill="#eddcb8" font-size="12">链接给 Agent 发现</text>
+
+  <path d="M296 189 H322 M316 184 L322 189 L316 194" stroke="#8ea3ba" stroke-width="1.5" fill="none"/>
+  <path d="M586 189 H612 M606 184 L612 189 L606 194" stroke="#8ea3ba" stroke-width="1.5" fill="none"/>
+  <path d="M876 189 H902 M896 184 L902 189 L896 194" stroke="#8ea3ba" stroke-width="1.5" fill="none"/>
+  <text x="40" y="300" fill="#8ea3ba" font-size="12">四个环节回答同一个问题：当模型不确定时，系统怎样不假装成功，并且让人能查、能改、能退。</text>
+</svg>
