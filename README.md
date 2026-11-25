@@ -11,7 +11,7 @@
 - **检索**：[llamaindex-rag](https://github.com/jaronlu/llamaindex-rag) — 每条答案给出 PDF 物理页码与来源核验结果。
 - **问答**：[SecRAG](https://github.com/jaronlu/SecRAG) — 引用、五态业务终态、角色权限与审计轨迹。
 - **写入**：[llm-wiki-mcp](https://github.com/jaronlu/llm-wiki-mcp) — Agent 只能提候选，人工批准后才更新正式页面。
-- **复用**：[agent-skills](https://github.com/jaronlu/agent-skills) — 13 个自维护技能包，链接给兼容的 Agent 发现。
+- **复用**：[agent-skills](https://github.com/jaronlu/agent-skills) — 12 个自维护技能包，链接给兼容的 Agent 发现。
 
 ## 怎么自己核对
 
